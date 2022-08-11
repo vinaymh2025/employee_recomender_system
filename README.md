@@ -1,4 +1,4 @@
-# employee_promotion_recommender
+# Employee_promotion_recommender
 
  <img align="center" src="gears.gif" width="220" height="200">    <img align="center" src="Promote-1.jpg" width="300" height="400"><img align="center" src="jump.gif" width="250" height="250">
 
@@ -68,5 +68,3 @@ A Kenyan company, Simba Deliveries, has 9 departments across the company. The co
 1.	Identify the set of staff liable for promotion based on past performance or recommendations
 2.	Chosen staff are taken through separate trainings programs and evaluations based on the skills that are required
 3.	In light of different factors such as program and training performance, KPI completion (only employees with KPIs > 80% are considered) and such, the chosen staff are considered for promotion.
-
-Given the long procedure for evaluation of a promotion candidate, there are huge delays in facilitating the transition to their new roles.
