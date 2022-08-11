@@ -1,7 +1,5 @@
 # employee_promotion_recommender
 
- <img align="center" src="gears.gif" width="220" height="200">    <img align="center" src="Promote-1.jpg" width="300" height="400"><img align="center" src="jump.gif" width="250" height="250">
-  
  # Problem statement: 
 
 A machine learning model to determine whether an employee is due for promotion  based on the HR metrics
@@ -91,15 +89,3 @@ Given the long procedure for evaluation of a promotion candidate, there are huge
  <p align="center"> 
    
   <img   src="https://github.com/abel-keya/Decision-trees-classification-Models-and-Support-Vector-Machines/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
- 
-</p>
-
-# Support
-In case of any clarifications or suggestions with regards to this project email us at the following email addresses:
-- jumakeya@gmail.com
-- elizangandu97@gmail.com
-- colorotich@gmail.com
--  sarahlaura1428@gmail.com
-
-License
-Copyright (c) 2020 **Abel Keya**
