@@ -1,5 +1,7 @@
 # employee_promotion_recommender
 
+ <img align="center" src="gears.gif" width="220" height="200">    <img align="center" src="Promote-1.jpg" width="300" height="400"><img align="center" src="jump.gif" width="250" height="250">
+
  # Problem statement: 
 
 A machine learning model to determine whether an employee is due for promotion  based on the HR metrics
