@@ -68,24 +68,3 @@ A Kenyan company, Simba Deliveries, has 9 departments across the company. The co
 3.	In light of different factors such as program and training performance, KPI completion (only employees with KPIs > 80% are considered) and such, the chosen staff are considered for promotion.
 
 Given the long procedure for evaluation of a promotion candidate, there are huge delays in facilitating the transition to their new roles.
-
-   
-  procedure used for obtaining data:
- 
- (https://jumakeya2019.atlassian.net/secure/RapidBoard.jspa?rapidView=4&projectKey=SKP&modal=detail&selectedIssue=SKP-18)
-  
-
-# Requirements
-
-* Anaconda installation
-* Google colab
-* Setup instruction
-> * Save a copy of the notebook in your drive and open it to access.
-
-<p align="center">
-   
-   # Technologies used:
-   
- <p align="center"> 
-   
-  <img   src="https://github.com/abel-keya/Decision-trees-classification-Models-and-Support-Vector-Machines/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
